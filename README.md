@@ -1,3 +1,5 @@
+Forked from https://github.com/fredmaggiowski/phonegap-nfc (fork of a fork, FOF) in order to support https://github.com/Field-ID/mobile-web which is stuck on Java 1.6. Proposed in https://github.com/Field-ID/mobile-web/pull/513
+
 PhoneGap NFC Plugin
 ==========================
 
